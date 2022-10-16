@@ -1,5 +1,10 @@
 # ninja log v5
+<<<<<<< HEAD
 0	422	6866720141427831	CMakeFiles/untitled3.dir/main.cpp.obj	c644ee12ef863f7f
 423	551	6866720142692482	untitled3.exe	e1bb29a4bbb33e0c
 4	469	6866722102111846	CMakeFiles/untitled3.dir/main.cpp.obj	c644ee12ef863f7f
 469	595	6866722103327783	untitled3.exe	e1bb29a4bbb33e0c
+=======
+0	542	6876171953581073	CMakeFiles/untitled3.dir/main.cpp.obj	c644ee12ef863f7f
+545	715	6876171955251180	untitled3.exe	e1bb29a4bbb33e0c
+>>>>>>> 86b3785 (Zmiany dodatkowe w 03)
